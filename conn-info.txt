@@ -1,0 +1,4 @@
+dbname = measurement
+user = postgres
+password = 
+host = localhost

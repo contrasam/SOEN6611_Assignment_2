@@ -1,0 +1,5618 @@
+[
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"43.0.2313.0",
+    "timestamp":"2015-02-23 18:14:54.920410"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"43.0.2313.0",
+    "timestamp":"2015-02-23 16:22:28.844640"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"43.0.2312.0",
+    "timestamp":"2015-02-22 23:57:34.925290"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"43.0.2312.0",
+    "timestamp":"2015-02-22 21:36:58.536640"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2311.4",
+    "timestamp":"2015-02-22 05:54:11.541900"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2311.4",
+    "timestamp":"2015-02-22 07:32:40.888700"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2311.0",
+    "timestamp":"2015-02-21 08:05:34.827470"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2311.0",
+    "timestamp":"2015-02-21 06:41:12.737710"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2310.2",
+    "timestamp":"2015-02-21 00:35:23.762000"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2310.2",
+    "timestamp":"2015-02-21 02:27:53.245340"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2310.0",
+    "timestamp":"2015-02-20 18:15:20.191500"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2310.0",
+    "timestamp":"2015-02-20 16:50:57.291670"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2309.2",
+    "timestamp":"2015-02-20 01:07:56.394930"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2309.2",
+    "timestamp":"2015-02-19 23:43:32.390190"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2309.0",
+    "timestamp":"2015-02-19 16:27:00.280260"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2309.0",
+    "timestamp":"2015-02-19 18:19:34.442160"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2308.0",
+    "timestamp":"2015-02-18 16:45:12.587060"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2308.0",
+    "timestamp":"2015-02-18 18:09:33.067730"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2307.4",
+    "timestamp":"2015-02-18 02:12:10.628350"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2307.4",
+    "timestamp":"2015-02-18 03:36:36.547110"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2307.0",
+    "timestamp":"2015-02-17 18:13:30.955630"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2307.0",
+    "timestamp":"2015-02-17 16:20:54.658900"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2306.0",
+    "timestamp":"2015-02-16 18:16:43.579720"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2306.0",
+    "timestamp":"2015-02-16 16:38:11.724640"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"42.0.2305.3",
+    "timestamp":"2015-02-17 23:51:23.207730"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"42.0.2305.3",
+    "timestamp":"2015-02-17 23:37:14.495900"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"42.0.2305.3",
+    "timestamp":"2015-02-17 23:37:17.403120"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"42.0.2305.2",
+    "timestamp":"2015-02-18 21:26:51.082660"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2305.2",
+    "timestamp":"2015-02-15 20:41:45.836590"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2305.2",
+    "timestamp":"2015-02-15 22:06:14.723940"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2305.0",
+    "timestamp":"2015-02-14 17:57:38.985210"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2305.0",
+    "timestamp":"2015-02-14 16:47:22.028490"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2304.0",
+    "timestamp":"2015-02-13 18:30:29.223690"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2304.0",
+    "timestamp":"2015-02-13 18:16:22.493770"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2303.3",
+    "timestamp":"2015-02-13 01:09:16.170720"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2303.3",
+    "timestamp":"2015-02-12 23:30:54.924170"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2303.0",
+    "timestamp":"2015-02-12 18:07:32.545180"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2303.0",
+    "timestamp":"2015-02-12 16:43:13.326120"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"42.0.2302.4",
+    "timestamp":"2015-02-13 21:05:10.993880"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2302.2",
+    "timestamp":"2015-02-11 20:03:05.915580"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2302.2",
+    "timestamp":"2015-02-11 21:27:25.987860"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2302.0",
+    "timestamp":"2015-02-11 16:32:04.645330"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2301.0",
+    "timestamp":"2015-02-10 22:28:30.916690"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2301.0",
+    "timestamp":"2015-02-10 20:35:50.136600"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2300.2",
+    "timestamp":"2015-02-10 06:59:36.400320"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2300.2",
+    "timestamp":"2015-02-10 07:27:41.520760"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"42.0.2300.2",
+    "timestamp":"2015-02-12 21:10:20.459270"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"42.0.2300.2",
+    "timestamp":"2015-02-12 21:10:17.951760"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2299.0",
+    "timestamp":"2015-02-09 04:15:03.564080"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2299.0",
+    "timestamp":"2015-02-09 02:36:33.815920"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"42.0.2298.0",
+    "timestamp":"2015-02-10 18:57:19.850440"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"42.0.2298.0",
+    "timestamp":"2015-02-10 18:57:22.331160"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"42.0.2298.0",
+    "timestamp":"2015-02-10 19:53:38.197850"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2298.0",
+    "timestamp":"2015-02-07 18:14:50.350440"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2298.0",
+    "timestamp":"2015-02-07 16:22:17.829480"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2297.0",
+    "timestamp":"2015-02-06 18:19:03.173590"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2297.0",
+    "timestamp":"2015-02-06 16:40:36.209280"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"42.0.2296.3",
+    "timestamp":"2015-02-11 17:56:27.733000"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2296.0",
+    "timestamp":"2015-02-05 18:10:04.796600"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2296.0",
+    "timestamp":"2015-02-05 16:31:36.569310"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2295.0",
+    "timestamp":"2015-02-04 20:50:02.380830"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2295.0",
+    "timestamp":"2015-02-04 16:36:43.758790"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2294.0",
+    "timestamp":"2015-02-03 16:28:04.402400"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2294.0",
+    "timestamp":"2015-02-03 18:06:29.744970"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2293.0",
+    "timestamp":"2015-02-02 22:24:52.938110"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2293.0",
+    "timestamp":"2015-02-02 19:36:05.962520"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2292.0",
+    "timestamp":"2015-01-30 22:38:55.589010"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"42.0.2292.0",
+    "timestamp":"2015-02-03 16:42:08.979690"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"42.0.2292.0",
+    "timestamp":"2015-02-03 16:42:06.185250"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2292.0",
+    "timestamp":"2015-01-30 17:01:16.881250"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"42.0.2292.0",
+    "timestamp":"2015-02-03 16:42:10.292550"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2291.1",
+    "timestamp":"2015-01-30 16:47:10.779410"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2291.0",
+    "timestamp":"2015-01-29 19:40:19.346300"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2291.0",
+    "timestamp":"2015-01-29 16:23:22.259940"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2290.6",
+    "timestamp":"2015-01-29 07:40:58.479560"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2290.6",
+    "timestamp":"2015-01-29 06:02:32.728240"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2290.0",
+    "timestamp":"2015-01-28 23:00:28.653660"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2289.0",
+    "timestamp":"2015-01-27 18:36:01.614590"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2289.0",
+    "timestamp":"2015-01-27 16:29:22.290900"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"42.0.2288.8",
+    "timestamp":"2015-01-30 01:04:05.342790"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"42.0.2288.6",
+    "timestamp":"2015-01-28 18:04:47.612450"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"42.0.2288.6",
+    "timestamp":"2015-01-28 17:50:42.682250"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"42.0.2288.6",
+    "timestamp":"2015-01-28 17:50:40.021640"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2288.4",
+    "timestamp":"2015-01-27 08:59:06.971960"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2288.4",
+    "timestamp":"2015-01-27 06:38:25.926450"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2288.3",
+    "timestamp":"2015-01-27 05:42:03.715520"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2288.2",
+    "timestamp":"2015-01-26 22:11:52.941350"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2288.2",
+    "timestamp":"2015-01-26 19:51:14.634000"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2287.0",
+    "timestamp":"2015-01-25 18:45:54.139750"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2287.0",
+    "timestamp":"2015-01-25 16:39:16.243730"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2286.0",
+    "timestamp":"2015-01-25 00:14:33.356130"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2286.0",
+    "timestamp":"2015-01-25 00:14:35.786100"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2285.2",
+    "timestamp":"2015-01-23 22:41:36.907090"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2285.0",
+    "timestamp":"2015-01-23 16:36:10.783010"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2283.5",
+    "timestamp":"2015-01-22 08:43:44.299390"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2283.5",
+    "timestamp":"2015-01-22 10:22:07.261110"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2283.2",
+    "timestamp":"2015-01-21 23:21:04.018330"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2283.2",
+    "timestamp":"2015-01-22 00:59:26.980640"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2282.0",
+    "timestamp":"2015-01-20 19:14:09.965160"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2282.0",
+    "timestamp":"2015-01-20 16:25:31.915110"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2281.0",
+    "timestamp":"2015-01-19 16:45:13.207630"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2281.0",
+    "timestamp":"2015-01-20 00:01:00.272130"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2280.2",
+    "timestamp":"2015-01-18 20:36:26.405240"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2280.2",
+    "timestamp":"2015-01-18 22:14:46.874550"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2279.2",
+    "timestamp":"2015-01-18 03:28:56.452030"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2278.0",
+    "timestamp":"2015-01-16 17:58:14.907820"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2278.0",
+    "timestamp":"2015-01-16 16:47:59.502990"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2277.0",
+    "timestamp":"2015-01-15 19:56:22.431310"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2276.0",
+    "timestamp":"2015-01-14 19:57:51.060940"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2276.0",
+    "timestamp":"2015-01-14 16:26:58.338880"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2275.2",
+    "timestamp":"2015-01-13 21:13:32.186830"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2275.2",
+    "timestamp":"2015-01-13 22:51:53.176100"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2275.0",
+    "timestamp":"2015-01-13 16:18:15.825000"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2275.0",
+    "timestamp":"2015-01-13 17:56:39.532730"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"42.0.2274.0",
+    "timestamp":"2015-01-13 05:44:19.455140"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"42.0.2273.0",
+    "timestamp":"2015-01-12 19:11:40.610600"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"42.0.2272.40",
+    "timestamp":"2015-02-16 19:55:14.329680"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"41.0.2272.65",
+    "timestamp":"2015-02-20 22:56:52.010070"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"41.0.2272.64",
+    "timestamp":"2015-02-19 18:47:46.595710"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"41.0.2272.64",
+    "timestamp":"2015-02-19 18:33:40.903750"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"41.0.2272.64",
+    "timestamp":"2015-02-19 18:33:37.839110"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"41.0.2272.63",
+    "timestamp":"2015-02-18 19:34:02.166230"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"41.0.2272.63",
+    "timestamp":"2015-02-18 18:51:47.112500"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"41.0.2272.63",
+    "timestamp":"2015-02-19 00:29:51.075690"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"41.0.2272.63",
+    "timestamp":"2015-02-18 18:51:44.500290"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"41.0.2272.57",
+    "timestamp":"2015-02-19 00:01:40.922170"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"41.0.2272.53",
+    "timestamp":"2015-02-11 18:24:38.519760"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"41.0.2272.53",
+    "timestamp":"2015-02-11 18:24:33.666980"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"41.0.2272.53",
+    "timestamp":"2015-02-11 18:38:43.577740"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"41.0.2272.53",
+    "timestamp":"2015-02-12 14:36:34.662740"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"41.0.2272.50",
+    "timestamp":"2015-02-23 15:12:09.125160"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"41.0.2272.46",
+    "timestamp":"2015-02-20 10:30:51.330590"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"41.0.2272.45",
+    "timestamp":"2015-02-04 22:00:24.118140"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"41.0.2272.44",
+    "timestamp":"2015-02-19 10:06:50.320940"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"41.0.2272.43",
+    "timestamp":"2015-02-05 20:58:53.735180"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"41.0.2272.43",
+    "timestamp":"2015-02-05 21:12:58.815250"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"41.0.2272.43",
+    "timestamp":"2015-02-05 20:58:49.690020"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"41.0.2272.41",
+    "timestamp":"2015-02-03 14:21:29.358840"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"41.0.2272.40",
+    "timestamp":"2015-02-18 23:19:20.926290"
+  },
+  {
+    "os":"iOS",
+    "channel":"dev",
+    "version":"41.0.2272.4",
+    "timestamp":"2015-01-16 20:18:53.980710"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"41.0.2272.35",
+    "timestamp":"2015-01-28 18:46:55.838540"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"41.0.2272.35",
+    "timestamp":"2015-01-28 18:46:58.398850"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"41.0.2272.35",
+    "timestamp":"2015-01-28 19:15:07.174760"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"41.0.2272.34",
+    "timestamp":"2015-01-28 19:57:20.588780"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"41.0.2272.33",
+    "timestamp":"2015-02-09 13:38:04.460220"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"41.0.2272.32",
+    "timestamp":"2015-01-29 01:07:04.082190"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"41.0.2272.32",
+    "timestamp":"2015-01-28 14:17:46.651410"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"41.0.2272.3",
+    "timestamp":"2015-01-14 00:16:22.723800"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"41.0.2272.3",
+    "timestamp":"2015-01-14 00:30:27.232620"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"41.0.2272.3",
+    "timestamp":"2015-01-14 00:16:20.031130"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"41.0.2272.27",
+    "timestamp":"2015-02-04 15:40:21.522470"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"41.0.2272.22",
+    "timestamp":"2015-01-29 10:01:38.306400"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"41.0.2272.2",
+    "timestamp":"2015-01-15 00:11:42.188790"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2272.2",
+    "timestamp":"2015-01-11 06:10:15.062040"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2272.2",
+    "timestamp":"2015-01-11 02:53:20.858280"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"41.0.2272.17",
+    "timestamp":"2015-01-27 00:46:45.049260"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"41.0.2272.17",
+    "timestamp":"2015-01-27 00:46:43.938080"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"41.0.2272.17",
+    "timestamp":"2015-01-27 00:32:37.372520"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"41.0.2272.16",
+    "timestamp":"2015-01-22 19:30:24.957330"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"41.0.2272.16",
+    "timestamp":"2015-01-22 19:44:28.047560"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"41.0.2272.16",
+    "timestamp":"2015-01-22 19:16:18.135030"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"41.0.2272.13",
+    "timestamp":"2015-01-21 18:11:49.340960"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"41.0.2272.12",
+    "timestamp":"2015-01-26 10:56:43.857760"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"41.0.2272.12",
+    "timestamp":"2015-01-20 18:32:02.007180"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"41.0.2272.12",
+    "timestamp":"2015-01-20 19:00:09.059830"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"41.0.2272.12",
+    "timestamp":"2015-01-20 18:31:59.474890"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2272.0",
+    "timestamp":"2015-01-10 10:42:32.621030"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2272.0",
+    "timestamp":"2015-01-10 08:36:01.737900"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2271.0",
+    "timestamp":"2015-01-09 16:39:56.449630"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2271.0",
+    "timestamp":"2015-01-09 19:56:43.858750"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2270.0",
+    "timestamp":"2015-01-08 16:31:05.631060"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2270.0",
+    "timestamp":"2015-01-08 19:48:09.982040"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2269.0",
+    "timestamp":"2015-01-07 19:52:15.723770"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2269.0",
+    "timestamp":"2015-01-07 16:21:28.476520"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"41.0.2268.2",
+    "timestamp":"2015-01-09 14:19:20.911180"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2268.0",
+    "timestamp":"2015-01-06 16:41:12.542390"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2268.0",
+    "timestamp":"2015-01-06 18:47:44.391020"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2267.0",
+    "timestamp":"2015-01-05 19:21:19.696550"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2267.0",
+    "timestamp":"2015-01-05 16:32:40.886470"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"41.0.2267.0",
+    "timestamp":"2015-01-06 19:30:00.258020"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"41.0.2267.0",
+    "timestamp":"2015-01-06 19:44:05.358040"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"41.0.2267.0",
+    "timestamp":"2015-01-06 19:58:10.377100"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2266.2",
+    "timestamp":"2015-01-04 22:44:02.099870"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2266.0",
+    "timestamp":"2015-01-04 16:24:24.973080"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2265.0",
+    "timestamp":"2015-01-03 16:58:12.501920"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2265.0",
+    "timestamp":"2015-01-03 18:36:37.936510"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2264.2",
+    "timestamp":"2014-12-31 19:51:36.209270"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2264.2",
+    "timestamp":"2014-12-31 23:36:28.505590"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2264.0",
+    "timestamp":"2014-12-31 16:48:56.132420"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2263.2",
+    "timestamp":"2014-12-30 21:22:00.361350"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2263.2",
+    "timestamp":"2014-12-30 21:07:55.490300"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2262.0",
+    "timestamp":"2014-12-29 16:45:46.646130"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2261.2",
+    "timestamp":"2014-12-28 05:51:00.927980"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2259.0",
+    "timestamp":"2014-12-26 07:27:05.757220"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2258.2",
+    "timestamp":"2014-12-23 20:23:58.124800"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2258.2",
+    "timestamp":"2014-12-23 19:27:46.280260"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2257.0",
+    "timestamp":"2014-12-22 16:57:01.899590"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2257.0",
+    "timestamp":"2014-12-22 18:35:23.487400"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2256.0",
+    "timestamp":"2014-12-21 17:58:26.440610"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2256.0",
+    "timestamp":"2014-12-21 16:48:08.017330"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2255.0",
+    "timestamp":"2014-12-20 16:39:30.689810"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2255.0",
+    "timestamp":"2014-12-20 17:49:48.727750"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2254.0",
+    "timestamp":"2014-12-19 16:30:41.822230"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2254.0",
+    "timestamp":"2014-12-19 18:51:19.592350"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2253.2",
+    "timestamp":"2014-12-18 21:16:04.573340"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2253.2",
+    "timestamp":"2014-12-18 19:37:41.852060"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"41.0.2252.3",
+    "timestamp":"2014-12-22 15:32:38.753560"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2252.2",
+    "timestamp":"2014-12-17 22:03:20.240670"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"41.0.2252.2",
+    "timestamp":"2014-12-19 14:10:00.803970"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"41.0.2251.0",
+    "timestamp":"2014-12-18 20:05:49.425100"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"41.0.2251.0",
+    "timestamp":"2014-12-18 19:23:34.754680"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"41.0.2251.0",
+    "timestamp":"2014-12-18 19:37:41.478460"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2251.0",
+    "timestamp":"2014-12-16 17:54:00.872660"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2251.0",
+    "timestamp":"2014-12-16 16:57:49.351840"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2250.2",
+    "timestamp":"2014-12-16 05:42:27.466830"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2250.2",
+    "timestamp":"2014-12-16 03:21:52.594290"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2250.0",
+    "timestamp":"2014-12-15 20:19:51.994530"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2250.0",
+    "timestamp":"2014-12-15 16:20:53.868400"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2249.0",
+    "timestamp":"2014-12-13 17:55:21.351720"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2249.0",
+    "timestamp":"2014-12-13 16:59:06.910640"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2248.0",
+    "timestamp":"2014-12-12 18:00:49.545620"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2248.0",
+    "timestamp":"2014-12-12 16:22:22.108380"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2247.1",
+    "timestamp":"2014-12-11 23:16:09.036150"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2247.0",
+    "timestamp":"2014-12-11 17:52:54.296680"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2247.0",
+    "timestamp":"2014-12-11 18:21:04.601940"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2246.0",
+    "timestamp":"2014-12-11 16:42:40.005540"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2246.0",
+    "timestamp":"2014-12-11 06:23:59.847170"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2245.0",
+    "timestamp":"2014-12-10 19:09:22.425390"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2245.0",
+    "timestamp":"2014-12-10 19:09:19.999700"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2244.0",
+    "timestamp":"2014-12-09 17:50:21.780890"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2244.0",
+    "timestamp":"2014-12-09 16:26:03.317940"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"41.0.2243.2",
+    "timestamp":"2014-12-11 23:44:18.823410"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"41.0.2243.0",
+    "timestamp":"2014-12-10 12:35:35.522460"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2243.0",
+    "timestamp":"2014-12-09 00:01:25.197380"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2243.0",
+    "timestamp":"2014-12-08 19:48:21.368660"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"41.0.2243.0",
+    "timestamp":"2014-12-09 19:56:55.136890"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"41.0.2243.0",
+    "timestamp":"2014-12-09 19:56:57.062910"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"41.0.2243.0",
+    "timestamp":"2014-12-10 18:13:08.261360"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2242.0",
+    "timestamp":"2014-12-08 17:27:44.968860"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2241.0",
+    "timestamp":"2014-12-06 16:26:50.870210"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2241.0",
+    "timestamp":"2014-12-06 17:51:16.811690"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2240.0",
+    "timestamp":"2014-12-05 16:31:38.869730"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2240.0",
+    "timestamp":"2014-12-05 18:10:04.012330"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2239.2",
+    "timestamp":"2014-12-05 02:13:21.677360"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2239.2",
+    "timestamp":"2014-12-05 04:48:27.435140"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2239.0",
+    "timestamp":"2014-12-04 16:22:08.288420"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2238.1",
+    "timestamp":"2014-12-03 22:17:57.509150"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2238.0",
+    "timestamp":"2014-12-03 21:21:47.293620"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2238.0",
+    "timestamp":"2014-12-04 18:14:32.624870"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"41.0.2238.0",
+    "timestamp":"2014-12-05 13:28:46.917280"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2237.0",
+    "timestamp":"2014-12-02 16:36:59.966940"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2237.0",
+    "timestamp":"2014-12-02 18:43:58.638310"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2236.0",
+    "timestamp":"2014-12-01 16:22:40.846370"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"41.0.2236.0",
+    "timestamp":"2014-12-02 17:33:42.972960"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2236.0",
+    "timestamp":"2014-12-01 18:01:07.139140"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"41.0.2236.0",
+    "timestamp":"2014-12-02 17:33:36.930960"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"41.0.2236.0",
+    "timestamp":"2014-12-10 17:59:04.888870"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2235.0",
+    "timestamp":"2014-11-30 17:51:22.542790"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2235.0",
+    "timestamp":"2014-11-30 16:27:03.553280"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2234.0",
+    "timestamp":"2014-11-29 17:54:08.524020"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2234.0",
+    "timestamp":"2014-11-29 16:43:51.858120"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2233.0",
+    "timestamp":"2014-11-28 17:58:38.910280"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2233.0",
+    "timestamp":"2014-11-28 16:48:02.513980"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2232.0",
+    "timestamp":"2014-11-27 16:36:36.352660"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2232.0",
+    "timestamp":"2014-11-27 18:01:08.118910"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2231.0",
+    "timestamp":"2014-11-26 16:26:02.710470"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2231.0",
+    "timestamp":"2014-11-26 18:04:30.334820"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2230.0",
+    "timestamp":"2014-11-25 17:55:18.240580"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2230.0",
+    "timestamp":"2014-11-25 16:45:03.184290"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2229.2",
+    "timestamp":"2014-11-25 03:08:58.022330"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2229.2",
+    "timestamp":"2014-11-25 05:15:45.183840"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2229.1",
+    "timestamp":"2014-11-24 19:10:10.752440"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2229.1",
+    "timestamp":"2014-11-24 18:13:59.265690"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2228.2",
+    "timestamp":"2014-11-24 03:55:43.810410"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2228.2",
+    "timestamp":"2014-11-24 05:20:03.627150"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2228.1",
+    "timestamp":"2014-11-23 20:25:28.892990"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2228.1",
+    "timestamp":"2014-11-23 21:49:47.421400"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2227.1",
+    "timestamp":"2014-11-23 00:29:45.519690"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2227.1",
+    "timestamp":"2014-11-22 23:05:27.100730"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2226.0",
+    "timestamp":"2014-11-21 17:58:39.725810"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2226.0",
+    "timestamp":"2014-11-21 17:58:35.416770"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2225.0",
+    "timestamp":"2014-11-20 18:02:00.556480"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2225.0",
+    "timestamp":"2014-11-20 16:37:37.098590"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2224.3",
+    "timestamp":"2014-11-20 05:21:56.950970"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2224.3",
+    "timestamp":"2014-11-20 05:35:58.274630"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"41.0.2224.3",
+    "timestamp":"2014-11-20 16:37:34.195700"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"41.0.2224.3",
+    "timestamp":"2014-11-20 16:51:43.724420"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"41.0.2224.3",
+    "timestamp":"2014-11-20 16:37:36.693820"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2224.2",
+    "timestamp":"2014-11-19 23:02:03.367310"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2224.2",
+    "timestamp":"2014-11-19 21:51:48.640830"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2224.0",
+    "timestamp":"2014-11-19 16:28:17.963730"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2224.0",
+    "timestamp":"2014-11-19 19:02:53.174390"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2223.2",
+    "timestamp":"2014-11-19 00:16:31.260680"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2223.0",
+    "timestamp":"2014-11-18 16:59:49.913720"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2223.0",
+    "timestamp":"2014-11-18 17:56:05.388090"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2222.2",
+    "timestamp":"2014-11-17 21:59:50.655280"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2222.0",
+    "timestamp":"2014-11-17 18:56:36.423890"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2221.0",
+    "timestamp":"2014-11-15 16:59:22.370090"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2220.0",
+    "timestamp":"2014-11-14 16:07:17.222800"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2219.0",
+    "timestamp":"2014-11-13 19:12:30.678680"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2219.0",
+    "timestamp":"2014-11-13 16:51:55.274810"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2218.0",
+    "timestamp":"2014-11-12 16:28:00.942770"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2218.0",
+    "timestamp":"2014-11-12 17:52:20.198890"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2217.0",
+    "timestamp":"2014-11-11 16:59:55.179780"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2217.0",
+    "timestamp":"2014-11-11 17:56:06.617020"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2216.0",
+    "timestamp":"2014-11-10 17:02:04.653640"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2216.0",
+    "timestamp":"2014-11-10 17:58:25.381030"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"41.0.2215.0",
+    "timestamp":"2014-11-10 00:36:25.452910"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"41.0.2215.0",
+    "timestamp":"2014-11-09 22:58:00.855690"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"40.0.2214.95",
+    "timestamp":"2015-02-04 00:12:02.549880"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"40.0.2214.94",
+    "timestamp":"2015-01-30 01:18:06.013220"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"40.0.2214.94",
+    "timestamp":"2015-01-29 19:54:27.189740"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"40.0.2214.94",
+    "timestamp":"2015-01-29 19:26:16.104890"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"40.0.2214.93",
+    "timestamp":"2015-01-26 23:50:28.407450"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"40.0.2214.93",
+    "timestamp":"2015-01-27 01:42:59.515820"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"40.0.2214.93",
+    "timestamp":"2015-01-27 14:22:46.246520"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"40.0.2214.93",
+    "timestamp":"2015-01-29 21:46:58.412600"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"40.0.2214.91",
+    "timestamp":"2015-01-23 14:57:39.751480"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"40.0.2214.91",
+    "timestamp":"2015-01-22 19:02:14.275450"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"40.0.2214.91",
+    "timestamp":"2015-01-21 19:36:09.206130"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"40.0.2214.91",
+    "timestamp":"2015-01-21 19:08:02.267430"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"40.0.2214.89",
+    "timestamp":"2015-01-21 19:08:03.455290"
+  },
+  {
+    "os":"Android",
+    "channel":"stable",
+    "version":"40.0.2214.89",
+    "timestamp":"2015-01-21 19:08:03.089740"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"40.0.2214.85",
+    "timestamp":"2015-01-16 18:26:23.317960"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"40.0.2214.85",
+    "timestamp":"2015-01-14 21:22:11.700770"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"40.0.2214.85",
+    "timestamp":"2015-01-14 21:50:25.157290"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"40.0.2214.85",
+    "timestamp":"2015-01-14 21:08:10.239870"
+  },
+  {
+    "os":"iOS",
+    "channel":"stable",
+    "version":"40.0.2214.73",
+    "timestamp":"2015-02-18 16:59:14.096630"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"40.0.2214.72",
+    "timestamp":"2015-01-09 14:19:20.165670"
+  },
+  {
+    "os":"iOS",
+    "channel":"stable",
+    "version":"40.0.2214.69",
+    "timestamp":"2015-01-21 19:08:00.047570"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"40.0.2214.69",
+    "timestamp":"2015-01-07 19:10:06.240880"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"40.0.2214.69",
+    "timestamp":"2015-01-07 19:10:08.229620"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"40.0.2214.69",
+    "timestamp":"2015-01-07 20:20:24.154680"
+  },
+  {
+    "os":"iOS",
+    "channel":"stable",
+    "version":"40.0.2214.61",
+    "timestamp":"2015-01-20 17:35:45.839110"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"40.0.2214.61",
+    "timestamp":"2015-01-12 15:40:51.899080"
+  },
+  {
+    "os":"iOS",
+    "channel":"dev",
+    "version":"40.0.2214.61",
+    "timestamp":"2015-01-15 19:00:08.031090"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"40.0.2214.6",
+    "timestamp":"2014-11-13 22:43:28.391180"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"40.0.2214.6",
+    "timestamp":"2014-11-13 22:15:21.993400"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"40.0.2214.6",
+    "timestamp":"2014-11-13 19:40:39.047510"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"40.0.2214.54",
+    "timestamp":"2015-01-07 14:57:08.034470"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"40.0.2214.5",
+    "timestamp":"2014-11-11 23:20:47.148750"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"40.0.2214.5",
+    "timestamp":"2014-11-11 23:48:56.945480"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"40.0.2214.5",
+    "timestamp":"2014-11-11 23:34:52.872760"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"40.0.2214.45",
+    "timestamp":"2014-12-18 17:45:10.975880"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"40.0.2214.45",
+    "timestamp":"2014-12-17 19:56:51.065510"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"40.0.2214.45",
+    "timestamp":"2014-12-17 19:42:44.638070"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"40.0.2214.45",
+    "timestamp":"2014-12-17 19:14:38.910230"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"40.0.2214.44",
+    "timestamp":"2015-01-06 12:42:09.644950"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"40.0.2214.43",
+    "timestamp":"2014-12-17 18:18:23.481890"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"40.0.2214.38",
+    "timestamp":"2014-12-11 17:38:52.320720"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"40.0.2214.38",
+    "timestamp":"2014-12-10 20:47:42.570020"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"40.0.2214.38",
+    "timestamp":"2014-12-10 18:13:08.020680"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"40.0.2214.38",
+    "timestamp":"2014-12-10 17:59:01.835020"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"40.0.2214.36",
+    "timestamp":"2014-12-09 00:43:39.810650"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"40.0.2214.32",
+    "timestamp":"2014-12-19 16:30:39.741550"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"40.0.2214.30",
+    "timestamp":"2014-12-17 11:02:20.096620"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2214.3",
+    "timestamp":"2014-11-09 03:41:22.664550"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2214.3",
+    "timestamp":"2014-11-09 02:31:07.805000"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"40.0.2214.3",
+    "timestamp":"2014-11-12 00:17:02.815530"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"40.0.2214.28",
+    "timestamp":"2014-12-03 19:29:17.781080"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"40.0.2214.28",
+    "timestamp":"2014-12-04 00:26:05.870510"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"40.0.2214.28",
+    "timestamp":"2014-12-03 19:29:20.995590"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"40.0.2214.25",
+    "timestamp":"2014-12-04 17:32:25.435320"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"40.0.2214.25",
+    "timestamp":"2014-12-02 18:15:52.214260"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"40.0.2214.22",
+    "timestamp":"2014-12-09 12:55:02.966390"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2214.2",
+    "timestamp":"2014-11-08 19:01:07.832590"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"40.0.2214.2",
+    "timestamp":"2014-11-19 15:03:44.952200"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2214.2",
+    "timestamp":"2014-11-08 17:22:22.946980"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"40.0.2214.16",
+    "timestamp":"2014-12-03 10:55:02.766990"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"40.0.2214.115",
+    "timestamp":"2015-02-19 18:47:46.265700"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"40.0.2214.115",
+    "timestamp":"2015-02-19 16:27:01.951950"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"40.0.2214.115",
+    "timestamp":"2015-02-19 16:12:52.808720"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"40.0.2214.114",
+    "timestamp":"2015-02-10 20:07:41.403330"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"40.0.2214.111",
+    "timestamp":"2015-02-05 16:59:45.016040"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"40.0.2214.111",
+    "timestamp":"2015-02-05 16:59:42.425810"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"40.0.2214.111",
+    "timestamp":"2015-02-05 17:13:49.379570"
+  },
+  {
+    "os":"Android",
+    "channel":"stable",
+    "version":"40.0.2214.109",
+    "timestamp":"2015-02-04 22:00:23.821040"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"40.0.2214.10",
+    "timestamp":"2014-11-27 10:44:39.900490"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"40.0.2214.10",
+    "timestamp":"2014-11-21 01:19:09.826620"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"40.0.2214.10",
+    "timestamp":"2014-11-18 17:42:03.703000"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"40.0.2214.10",
+    "timestamp":"2014-11-20 22:30:21.925250"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"40.0.2214.10",
+    "timestamp":"2014-11-18 18:10:11.943160"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"40.0.2214.10",
+    "timestamp":"2014-11-20 21:48:06.203030"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"40.0.2214.10",
+    "timestamp":"2014-11-18 18:10:08.619700"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"40.0.2214.10",
+    "timestamp":"2014-11-20 21:33:26.517800"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2214.0",
+    "timestamp":"2014-11-08 07:44:53.500860"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2214.0",
+    "timestamp":"2014-11-08 07:16:48.425310"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2213.0",
+    "timestamp":"2014-11-07 17:27:00.893960"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2213.0",
+    "timestamp":"2014-11-07 17:41:01.955870"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2212.0",
+    "timestamp":"2014-11-06 18:55:43.320140"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2212.0",
+    "timestamp":"2014-11-06 17:17:21.111730"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2211.0",
+    "timestamp":"2014-11-05 18:46:34.960590"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2211.0",
+    "timestamp":"2014-11-05 17:08:11.374800"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2210.0",
+    "timestamp":"2014-11-04 17:13:26.808930"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2210.0",
+    "timestamp":"2014-11-04 17:55:35.430090"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"40.0.2209.2",
+    "timestamp":"2014-11-07 13:42:00.449630"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2209.0",
+    "timestamp":"2014-11-03 18:14:06.139100"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"40.0.2209.0",
+    "timestamp":"2014-11-04 17:27:30.290590"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"40.0.2209.0",
+    "timestamp":"2014-11-04 17:27:28.154710"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"40.0.2209.0",
+    "timestamp":"2014-11-04 17:27:31.157870"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2209.0",
+    "timestamp":"2014-11-03 18:00:04.998820"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2208.0",
+    "timestamp":"2014-11-02 16:55:14.788620"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2208.0",
+    "timestamp":"2014-11-02 16:13:05.509840"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2207.2",
+    "timestamp":"2014-11-01 22:51:00.053340"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2207.2",
+    "timestamp":"2014-11-01 21:39:48.136110"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2207.0",
+    "timestamp":"2014-11-01 16:44:24.535800"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2207.0",
+    "timestamp":"2014-11-01 16:16:18.498260"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2206.0",
+    "timestamp":"2014-10-31 17:42:15.951180"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2206.0",
+    "timestamp":"2014-10-31 15:21:39.081040"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2205.0",
+    "timestamp":"2014-10-30 16:36:33.647320"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2205.0",
+    "timestamp":"2014-10-30 16:08:29.076230"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2204.0",
+    "timestamp":"2014-10-29 15:31:18.258920"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2204.0",
+    "timestamp":"2014-10-29 19:30:15.723220"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2203.3",
+    "timestamp":"2014-10-28 19:21:56.430690"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2203.3",
+    "timestamp":"2014-10-28 17:43:32.444600"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2203.0",
+    "timestamp":"2014-10-28 16:47:17.525780"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"40.0.2202.5",
+    "timestamp":"2014-10-31 02:27:44.260950"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"40.0.2202.3",
+    "timestamp":"2014-10-28 16:33:12.199200"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"40.0.2202.3",
+    "timestamp":"2014-10-28 16:33:15.289120"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"40.0.2202.3",
+    "timestamp":"2014-10-28 16:33:16.440220"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2202.3",
+    "timestamp":"2014-10-27 22:29:40.650720"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2202.3",
+    "timestamp":"2014-10-27 22:57:45.856840"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2202.2",
+    "timestamp":"2014-10-27 18:30:38.779150"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2202.2",
+    "timestamp":"2014-10-27 16:10:06.892580"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2201.2",
+    "timestamp":"2014-10-26 19:03:50.192420"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2201.2",
+    "timestamp":"2014-10-26 16:57:16.196590"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2201.0",
+    "timestamp":"2014-10-26 16:14:59.967800"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2201.0",
+    "timestamp":"2014-10-26 16:43:04.496160"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2200.2",
+    "timestamp":"2014-10-26 04:03:35.374910"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2200.2",
+    "timestamp":"2014-10-26 08:30:39.146580"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2200.1",
+    "timestamp":"2014-10-25 17:02:24.969650"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2200.0",
+    "timestamp":"2014-10-25 16:20:16.027100"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2199.1",
+    "timestamp":"2014-10-24 20:10:12.136440"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2199.0",
+    "timestamp":"2014-10-24 16:25:08.292380"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2199.0",
+    "timestamp":"2014-10-24 16:39:10.023250"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2198.0",
+    "timestamp":"2014-10-23 16:43:41.249640"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2198.0",
+    "timestamp":"2014-10-23 16:29:40.075240"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2197.2",
+    "timestamp":"2014-10-22 17:44:48.212280"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2197.2",
+    "timestamp":"2014-10-22 18:26:58.339840"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2196.0",
+    "timestamp":"2014-10-21 16:07:42.005120"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2196.0",
+    "timestamp":"2014-10-21 17:03:53.052260"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2195.0",
+    "timestamp":"2014-10-21 06:59:07.752360"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"40.0.2194.3",
+    "timestamp":"2014-10-22 19:51:25.258990"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"40.0.2194.2",
+    "timestamp":"2014-10-21 17:46:02.678500"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"40.0.2194.2",
+    "timestamp":"2014-10-21 17:46:04.915170"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"40.0.2194.2",
+    "timestamp":"2014-10-21 17:46:05.606870"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2194.2",
+    "timestamp":"2014-10-20 21:21:58.065280"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2194.2",
+    "timestamp":"2014-10-20 20:25:47.499030"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2194.0",
+    "timestamp":"2014-10-20 17:37:09.257560"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2194.0",
+    "timestamp":"2014-10-20 16:12:52.081350"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2193.0",
+    "timestamp":"2014-10-18 15:56:03.574350"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2193.0",
+    "timestamp":"2014-10-18 16:52:16.991800"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2192.3",
+    "timestamp":"2014-10-17 23:17:12.025840"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2192.3",
+    "timestamp":"2014-10-17 23:45:17.481670"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2192.0",
+    "timestamp":"2014-10-17 17:39:38.701490"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2192.0",
+    "timestamp":"2014-10-17 16:15:19.227480"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2191.0",
+    "timestamp":"2014-10-16 17:44:59.021130"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2191.0",
+    "timestamp":"2014-10-16 15:24:22.338390"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2190.0",
+    "timestamp":"2014-10-15 17:08:29.003200"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2190.0",
+    "timestamp":"2014-10-15 15:30:03.880180"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2189.0",
+    "timestamp":"2014-10-14 17:00:34.282510"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2189.0",
+    "timestamp":"2014-10-14 19:35:22.041560"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"40.0.2188.2",
+    "timestamp":"2014-10-14 21:55:49.879460"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"40.0.2188.2",
+    "timestamp":"2014-10-14 21:41:49.073690"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"40.0.2188.2",
+    "timestamp":"2014-10-14 21:55:51.911590"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2188.2",
+    "timestamp":"2014-10-14 18:53:10.315640"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"40.0.2188.1",
+    "timestamp":"2014-10-16 22:26:29.767340"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2188.1",
+    "timestamp":"2014-10-14 00:07:58.104070"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2188.1",
+    "timestamp":"2014-10-13 22:43:32.515780"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2185.0",
+    "timestamp":"2014-10-11 17:41:45.938970"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2185.0",
+    "timestamp":"2014-10-11 16:59:39.461440"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2184.0",
+    "timestamp":"2014-10-10 17:45:49.746230"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2184.0",
+    "timestamp":"2014-10-10 15:25:10.606380"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2183.0",
+    "timestamp":"2014-10-09 15:54:59.380490"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2183.0",
+    "timestamp":"2014-10-09 16:51:11.247890"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"40.0.2182.4",
+    "timestamp":"2014-10-09 21:04:59.110370"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2182.3",
+    "timestamp":"2014-10-09 08:09:26.617300"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"40.0.2182.3",
+    "timestamp":"2014-10-09 17:19:40.788330"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"40.0.2182.3",
+    "timestamp":"2014-10-09 17:19:31.911440"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"40.0.2182.3",
+    "timestamp":"2014-10-09 17:19:41.699660"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2182.3",
+    "timestamp":"2014-10-09 06:31:05.315810"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2182.0",
+    "timestamp":"2014-10-08 18:15:29.950100"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2182.0",
+    "timestamp":"2014-10-08 15:54:54.266600"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2181.0",
+    "timestamp":"2014-10-07 17:24:45.476380"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2181.0",
+    "timestamp":"2014-10-07 17:24:47.655730"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2180.0",
+    "timestamp":"2014-10-06 17:30:21.965940"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2180.0",
+    "timestamp":"2014-10-06 15:52:03.258020"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2179.0",
+    "timestamp":"2014-10-05 17:22:48.440870"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2179.0",
+    "timestamp":"2014-10-05 16:26:36.037940"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2178.0",
+    "timestamp":"2014-10-04 16:46:29.180140"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2178.0",
+    "timestamp":"2014-10-04 17:56:46.733520"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2177.2",
+    "timestamp":"2014-10-03 22:15:18.588980"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2177.0",
+    "timestamp":"2014-10-03 17:33:47.713930"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2177.0",
+    "timestamp":"2014-10-03 16:23:34.536460"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2176.0",
+    "timestamp":"2014-10-02 17:54:08.263290"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2176.0",
+    "timestamp":"2014-10-02 16:29:50.411300"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2175.0",
+    "timestamp":"2014-10-01 15:53:33.489870"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2175.0",
+    "timestamp":"2014-10-01 18:14:05.850870"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2174.0",
+    "timestamp":"2014-09-30 17:32:35.253300"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2174.0",
+    "timestamp":"2014-09-30 15:54:04.296060"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2173.0",
+    "timestamp":"2014-09-29 18:59:19.267790"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2173.0",
+    "timestamp":"2014-09-29 15:14:27.196710"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"40.0.2172.0",
+    "timestamp":"2014-09-28 18:23:23.413400"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"40.0.2172.0",
+    "timestamp":"2014-09-28 20:29:56.197900"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"39.0.2171.99",
+    "timestamp":"2015-01-13 20:45:25.909700"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"39.0.2171.99",
+    "timestamp":"2015-01-13 20:17:15.883160"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"39.0.2171.99",
+    "timestamp":"2015-01-13 20:03:14.064820"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"39.0.2171.96",
+    "timestamp":"2014-12-15 17:17:06.046880"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"39.0.2171.95",
+    "timestamp":"2014-12-09 17:50:23.856420"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"39.0.2171.95",
+    "timestamp":"2014-12-09 20:11:00.157270"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"39.0.2171.95",
+    "timestamp":"2014-12-09 17:50:21.322270"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"39.0.2171.94",
+    "timestamp":"2014-12-03 23:01:35.199890"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"39.0.2171.90",
+    "timestamp":"2014-11-21 18:12:43.570600"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"39.0.2171.85",
+    "timestamp":"2014-11-20 23:54:44.531170"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"39.0.2171.85",
+    "timestamp":"2014-11-19 03:19:23.408890"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"39.0.2171.71",
+    "timestamp":"2014-11-25 23:04:58.385400"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"39.0.2171.71",
+    "timestamp":"2014-11-25 22:50:55.022950"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"39.0.2171.71",
+    "timestamp":"2014-11-25 22:36:39.165620"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"39.0.2171.7",
+    "timestamp":"2014-10-03 01:37:55.725920"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"39.0.2171.7",
+    "timestamp":"2014-10-08 08:53:00.780640"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"39.0.2171.7",
+    "timestamp":"2014-10-03 01:38:00.253290"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"39.0.2171.7",
+    "timestamp":"2014-10-03 01:37:58.097920"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"39.0.2171.65",
+    "timestamp":"2014-11-18 16:59:47.083120"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"39.0.2171.65",
+    "timestamp":"2014-11-18 16:45:41.414590"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"39.0.2171.65",
+    "timestamp":"2014-11-18 16:45:38.218270"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"39.0.2171.62",
+    "timestamp":"2014-11-12 19:44:53.163020"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"39.0.2171.62",
+    "timestamp":"2014-11-12 19:44:49.118000"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"39.0.2171.62",
+    "timestamp":"2014-11-12 19:58:57.061830"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"39.0.2171.60",
+    "timestamp":"2014-11-14 02:56:41.306010"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"39.0.2171.59",
+    "timestamp":"2014-11-19 17:10:29.270710"
+  },
+  {
+    "os":"Android",
+    "channel":"stable",
+    "version":"39.0.2171.59",
+    "timestamp":"2014-11-13 17:34:04.779310"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"39.0.2171.54",
+    "timestamp":"2014-11-07 02:54:29.629860"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"39.0.2171.52",
+    "timestamp":"2014-11-05 17:36:17.932760"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"39.0.2171.52",
+    "timestamp":"2014-11-05 18:32:30.574790"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"39.0.2171.52",
+    "timestamp":"2014-11-05 18:32:33.397090"
+  },
+  {
+    "os":"iOS",
+    "channel":"stable",
+    "version":"39.0.2171.50",
+    "timestamp":"2014-11-24 23:37:36.259080"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"39.0.2171.45",
+    "timestamp":"2014-10-31 02:27:43.309330"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"39.0.2171.42",
+    "timestamp":"2014-10-29 15:45:22.588020"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"39.0.2171.42",
+    "timestamp":"2014-10-29 15:45:21.852910"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"39.0.2171.42",
+    "timestamp":"2014-10-29 15:45:19.358380"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"39.0.2171.38",
+    "timestamp":"2014-10-24 02:20:58.705720"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"39.0.2171.37",
+    "timestamp":"2014-10-22 23:50:37.036160"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"39.0.2171.37",
+    "timestamp":"2014-11-07 08:31:56.826130"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"39.0.2171.36",
+    "timestamp":"2014-10-22 17:58:49.431400"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"39.0.2171.36",
+    "timestamp":"2014-10-22 18:12:56.685340"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"39.0.2171.36",
+    "timestamp":"2014-10-22 18:12:57.356210"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"39.0.2171.29",
+    "timestamp":"2014-10-29 10:07:34.202800"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"39.0.2171.27",
+    "timestamp":"2014-10-15 16:12:13.287410"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"39.0.2171.27",
+    "timestamp":"2014-10-15 16:12:15.573060"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"39.0.2171.27",
+    "timestamp":"2014-10-15 16:26:20.389180"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"39.0.2171.25",
+    "timestamp":"2014-10-14 17:00:36.707080"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"39.0.2171.25",
+    "timestamp":"2014-10-17 02:25:30.291460"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"39.0.2171.23",
+    "timestamp":"2014-10-22 09:14:43.818000"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"39.0.2171.2",
+    "timestamp":"2014-09-29 16:52:52.721670"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2171.2",
+    "timestamp":"2014-09-27 19:23:51.952760"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"39.0.2171.2",
+    "timestamp":"2014-09-29 16:38:43.902940"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"39.0.2171.2",
+    "timestamp":"2014-09-29 16:38:46.982210"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2171.2",
+    "timestamp":"2014-09-27 17:31:26.630590"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"39.0.2171.19",
+    "timestamp":"2014-10-09 21:19:04.271490"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"39.0.2171.16",
+    "timestamp":"2014-10-15 09:24:36.037930"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"39.0.2171.14",
+    "timestamp":"2014-10-10 01:47:44.240010"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"39.0.2171.13",
+    "timestamp":"2014-10-09 16:51:13.967490"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"39.0.2171.13",
+    "timestamp":"2014-10-07 20:27:28.344980"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"39.0.2171.13",
+    "timestamp":"2014-10-09 16:51:10.788760"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"39.0.2171.13",
+    "timestamp":"2014-10-08 15:26:45.979340"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"39.0.2171.13",
+    "timestamp":"2014-10-07 21:23:46.934720"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"39.0.2171.11",
+    "timestamp":"2014-10-07 15:18:00.626000"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2171.0",
+    "timestamp":"2014-09-27 07:12:05.256320"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2171.0",
+    "timestamp":"2014-09-27 06:29:54.508430"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2170.2",
+    "timestamp":"2014-09-26 23:56:08.015050"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2170.2",
+    "timestamp":"2014-09-27 00:52:20.791910"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2170.0",
+    "timestamp":"2014-09-26 19:28:46.695160"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2170.0",
+    "timestamp":"2014-09-26 16:25:51.564640"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2169.3",
+    "timestamp":"2014-09-25 20:02:25.318040"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2169.3",
+    "timestamp":"2014-09-25 19:06:14.979180"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2168.0",
+    "timestamp":"2014-09-24 18:44:13.714270"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2168.0",
+    "timestamp":"2014-09-24 19:26:24.741990"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"39.0.2167.5",
+    "timestamp":"2014-09-26 14:33:18.290520"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2167.4",
+    "timestamp":"2014-09-24 02:47:57.093270"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2167.4",
+    "timestamp":"2014-09-24 04:40:28.374330"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2167.2",
+    "timestamp":"2014-09-23 21:52:49.762640"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2167.0",
+    "timestamp":"2014-09-23 17:25:46.097520"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2167.0",
+    "timestamp":"2014-09-23 16:29:35.859750"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"39.0.2166.2",
+    "timestamp":"2014-09-23 18:07:57.027530"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2166.2",
+    "timestamp":"2014-09-22 21:58:33.256880"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2166.2",
+    "timestamp":"2014-09-22 23:08:46.967670"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"39.0.2166.2",
+    "timestamp":"2014-09-23 18:36:03.510700"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"39.0.2166.2",
+    "timestamp":"2014-09-23 18:36:01.335710"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2166.0",
+    "timestamp":"2014-09-22 17:17:29.264870"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2166.0",
+    "timestamp":"2014-09-22 15:25:06.018340"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2165.0",
+    "timestamp":"2014-09-21 19:57:57.725390"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2165.0",
+    "timestamp":"2014-09-21 18:33:41.537270"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2164.0",
+    "timestamp":"2014-09-20 17:27:14.894030"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2164.0",
+    "timestamp":"2014-09-20 16:16:57.435130"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2163.3",
+    "timestamp":"2014-09-19 19:39:10.518270"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2163.3",
+    "timestamp":"2014-09-19 21:45:39.928850"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2163.2",
+    "timestamp":"2014-09-19 19:53:11.963120"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2163.2",
+    "timestamp":"2014-09-19 18:42:55.749550"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2162.0",
+    "timestamp":"2014-09-18 18:47:58.880230"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2162.0",
+    "timestamp":"2014-09-18 17:23:41.561610"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2161.3",
+    "timestamp":"2014-09-17 21:55:52.089360"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2161.3",
+    "timestamp":"2014-09-17 19:21:16.254700"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2161.0",
+    "timestamp":"2014-09-17 17:28:46.767950"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2160.2",
+    "timestamp":"2014-09-17 02:28:25.216700"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2160.0",
+    "timestamp":"2014-09-16 18:30:04.868150"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"39.0.2159.4",
+    "timestamp":"2014-09-16 17:05:42.036350"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"39.0.2159.4",
+    "timestamp":"2014-09-16 17:05:39.614110"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"39.0.2159.4",
+    "timestamp":"2014-09-16 16:51:38.522310"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2159.4",
+    "timestamp":"2014-09-16 07:57:24.323920"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2159.4",
+    "timestamp":"2014-09-16 04:40:21.061910"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2159.3",
+    "timestamp":"2014-09-16 00:13:13.262980"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2159.0",
+    "timestamp":"2014-09-15 17:39:34.316070"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2159.0",
+    "timestamp":"2014-09-15 16:15:15.086070"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2158.2",
+    "timestamp":"2014-09-15 08:45:13.709960"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2158.2",
+    "timestamp":"2014-09-15 07:20:48.213510"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2158.0",
+    "timestamp":"2014-09-14 19:23:28.391900"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2158.0",
+    "timestamp":"2014-09-14 17:59:06.953240"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2157.2",
+    "timestamp":"2014-09-13 23:13:26.793960"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2157.2",
+    "timestamp":"2014-09-14 00:09:41.732870"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2156.0",
+    "timestamp":"2014-09-12 15:33:31.288300"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2156.0",
+    "timestamp":"2014-09-12 17:25:57.757690"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2155.0",
+    "timestamp":"2014-09-12 04:58:46.721360"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2155.0",
+    "timestamp":"2014-09-12 04:58:43.531630"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2152.0",
+    "timestamp":"2014-09-11 03:25:29.586270"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2152.0",
+    "timestamp":"2014-09-11 01:33:01.655240"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"39.0.2151.4",
+    "timestamp":"2014-09-12 16:01:38.195720"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2151.4",
+    "timestamp":"2014-09-10 11:43:05.769460"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2151.4",
+    "timestamp":"2014-09-10 09:08:16.605150"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2151.2",
+    "timestamp":"2014-09-09 20:14:14.071320"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2151.2",
+    "timestamp":"2014-09-09 19:03:56.812850"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2151.0",
+    "timestamp":"2014-09-09 17:39:33.916190"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"39.0.2150.5",
+    "timestamp":"2014-09-10 19:13:13.551070"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"39.0.2150.5",
+    "timestamp":"2014-09-10 19:27:15.135000"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"39.0.2150.5",
+    "timestamp":"2014-09-10 19:41:23.346260"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2150.3",
+    "timestamp":"2014-09-09 03:07:06.399820"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2150.3",
+    "timestamp":"2014-09-09 02:39:00.770390"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2150.2",
+    "timestamp":"2014-09-08 20:19:20.451130"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2150.2",
+    "timestamp":"2014-09-08 18:55:00.966330"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2150.0",
+    "timestamp":"2014-09-08 15:38:08.131880"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2149.0",
+    "timestamp":"2014-09-07 17:36:26.844170"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2149.0",
+    "timestamp":"2014-09-07 17:08:20.524810"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2148.0",
+    "timestamp":"2014-09-06 18:10:11.577750"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2148.0",
+    "timestamp":"2014-09-06 18:10:08.764940"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2147.1",
+    "timestamp":"2014-09-05 18:43:38.696230"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2147.0",
+    "timestamp":"2014-09-05 20:08:07.167220"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2146.0",
+    "timestamp":"2014-09-04 16:14:17.169100"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2146.0",
+    "timestamp":"2014-09-04 17:24:34.599840"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"39.0.2145.4",
+    "timestamp":"2014-09-04 20:27:13.756230"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"39.0.2145.4",
+    "timestamp":"2014-09-04 20:27:16.620290"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"39.0.2145.4",
+    "timestamp":"2014-09-04 20:27:17.938580"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2145.4",
+    "timestamp":"2014-09-04 05:41:12.999880"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2145.4",
+    "timestamp":"2014-09-04 05:27:10.977060"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2145.3",
+    "timestamp":"2014-09-04 00:59:57.038520"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2145.3",
+    "timestamp":"2014-09-04 00:17:44.103340"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2145.2",
+    "timestamp":"2014-09-03 22:11:12.442730"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2145.2",
+    "timestamp":"2014-09-03 21:28:28.455660"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2145.0",
+    "timestamp":"2014-09-03 17:29:32.954410"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2145.0",
+    "timestamp":"2014-09-03 17:15:26.296820"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2144.2",
+    "timestamp":"2014-09-02 23:40:58.526890"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2144.2",
+    "timestamp":"2014-09-02 22:16:38.450040"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2144.0",
+    "timestamp":"2014-09-02 17:49:20.541710"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"39.0.2144.0",
+    "timestamp":"2014-09-05 01:22:34.138080"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2144.0",
+    "timestamp":"2014-09-02 16:53:04.582950"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2143.0",
+    "timestamp":"2014-09-01 23:02:51.614430"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2143.0",
+    "timestamp":"2014-09-01 16:00:35.076670"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2141.0",
+    "timestamp":"2014-08-30 17:35:47.511520"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2141.0",
+    "timestamp":"2014-08-30 18:17:55.462640"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2140.0",
+    "timestamp":"2014-08-29 17:38:10.761490"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2140.0",
+    "timestamp":"2014-08-29 17:38:07.549210"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2139.0",
+    "timestamp":"2014-08-29 19:30:43.541960"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2139.0",
+    "timestamp":"2014-08-29 16:55:56.178230"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2138.3",
+    "timestamp":"2014-08-28 04:36:49.336030"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"39.0.2138.3",
+    "timestamp":"2014-08-29 00:03:43.891810"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"39.0.2138.3",
+    "timestamp":"2014-08-29 00:31:49.361090"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2138.3",
+    "timestamp":"2014-08-28 07:25:34.808010"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"39.0.2138.3",
+    "timestamp":"2014-08-29 00:17:44.813680"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2138.2",
+    "timestamp":"2014-08-27 21:06:44.241710"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2138.2",
+    "timestamp":"2014-08-27 19:42:29.470390"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2138.0",
+    "timestamp":"2014-08-27 15:43:40.282680"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2137.2",
+    "timestamp":"2014-08-27 06:21:08.753630"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2137.2",
+    "timestamp":"2014-08-27 06:49:18.928910"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2137.0",
+    "timestamp":"2014-08-26 18:52:22.547920"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2137.0",
+    "timestamp":"2014-08-26 21:26:59.168790"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2136.0",
+    "timestamp":"2014-08-25 16:38:44.823910"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2136.0",
+    "timestamp":"2014-08-25 17:48:58.754710"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2135.0",
+    "timestamp":"2014-08-24 09:58:10.468930"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2135.0",
+    "timestamp":"2014-08-24 11:36:41.832710"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2133.1",
+    "timestamp":"2014-08-24 09:44:08.441620"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2133.1",
+    "timestamp":"2014-08-24 04:06:39.560590"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2133.0",
+    "timestamp":"2014-08-23 11:00:51.645530"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2133.0",
+    "timestamp":"2014-08-23 10:18:41.968110"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2132.0",
+    "timestamp":"2014-08-22 10:25:51.568820"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2132.0",
+    "timestamp":"2014-08-22 10:53:55.869680"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2130.0",
+    "timestamp":"2014-08-21 05:51:47.212950"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2130.0",
+    "timestamp":"2014-08-21 07:44:11.336180"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2129.0",
+    "timestamp":"2014-08-20 09:01:58.363300"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2129.0",
+    "timestamp":"2014-08-20 09:44:11.153200"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2128.2",
+    "timestamp":"2014-08-19 20:09:25.645980"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2128.2",
+    "timestamp":"2014-08-19 08:55:04.169870"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2128.0",
+    "timestamp":"2014-08-19 09:51:19.275810"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2128.0",
+    "timestamp":"2014-08-19 07:16:41.929590"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2127.0",
+    "timestamp":"2014-08-18 13:29:13.489160"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2127.0",
+    "timestamp":"2014-08-18 09:58:23.643160"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"39.0.2126.2",
+    "timestamp":"2014-08-18 05:17:16.243000"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"39.0.2126.2",
+    "timestamp":"2014-08-18 04:35:08.933400"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"38.0.2125.8",
+    "timestamp":"2014-08-22 02:14:04.209820"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"38.0.2125.8",
+    "timestamp":"2014-08-22 01:03:46.413510"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"38.0.2125.8",
+    "timestamp":"2014-08-22 01:17:51.364410"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"38.0.2125.77",
+    "timestamp":"2014-09-24 18:44:11.471620"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"38.0.2125.77",
+    "timestamp":"2014-09-24 20:22:39.005590"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"38.0.2125.77",
+    "timestamp":"2014-09-24 18:58:18.762240"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"38.0.2125.77",
+    "timestamp":"2014-09-26 14:33:17.639780"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"38.0.2125.71",
+    "timestamp":"2014-09-22 13:32:40.638000"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"38.0.2125.7",
+    "timestamp":"2014-08-22 22:36:06.396010"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"38.0.2125.69",
+    "timestamp":"2014-09-19 17:32:40.962770"
+  },
+  {
+    "os":"iOS",
+    "channel":"stable",
+    "version":"38.0.2125.67",
+    "timestamp":"2014-10-30 17:32:51.689570"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"38.0.2125.66",
+    "timestamp":"2014-09-17 19:49:21.216190"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"38.0.2125.66",
+    "timestamp":"2014-09-17 19:49:23.916960"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"38.0.2125.66",
+    "timestamp":"2014-09-17 20:31:34.167300"
+  },
+  {
+    "os":"iOS",
+    "channel":"stable",
+    "version":"38.0.2125.59",
+    "timestamp":"2014-10-10 00:22:43.380440"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"38.0.2125.58",
+    "timestamp":"2014-09-10 21:19:47.868760"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"38.0.2125.58",
+    "timestamp":"2014-09-12 16:01:37.235560"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"38.0.2125.58",
+    "timestamp":"2014-09-26 16:53:56.935300"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"38.0.2125.58",
+    "timestamp":"2014-09-10 23:40:33.907220"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"38.0.2125.58",
+    "timestamp":"2014-09-10 21:33:55.163740"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"38.0.2125.52",
+    "timestamp":"2014-09-25 17:13:46.296520"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"38.0.2125.49",
+    "timestamp":"2014-09-08 17:16:33.145560"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"38.0.2125.44",
+    "timestamp":"2014-09-03 18:25:47.503040"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"38.0.2125.44",
+    "timestamp":"2014-09-03 19:36:04.756830"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"38.0.2125.44",
+    "timestamp":"2014-09-03 18:11:41.329040"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"38.0.2125.42",
+    "timestamp":"2014-09-17 22:38:05.298710"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"38.0.2125.34",
+    "timestamp":"2014-09-10 22:02:01.316910"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"38.0.2125.26",
+    "timestamp":"2014-09-02 20:52:14.232910"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"38.0.2125.26",
+    "timestamp":"2014-08-28 02:44:23.567520"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"38.0.2125.24",
+    "timestamp":"2014-08-26 19:48:38.641780"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"38.0.2125.24",
+    "timestamp":"2014-08-28 21:57:18.363730"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"38.0.2125.24",
+    "timestamp":"2014-08-28 21:43:13.035050"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"38.0.2125.24",
+    "timestamp":"2014-08-26 19:06:23.812760"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"38.0.2125.24",
+    "timestamp":"2014-09-03 21:28:29.150250"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"38.0.2125.24",
+    "timestamp":"2014-08-26 19:20:29.940480"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"38.0.2125.24",
+    "timestamp":"2014-08-28 22:25:24.794590"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"38.0.2125.16",
+    "timestamp":"2014-08-28 21:57:16.602450"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"38.0.2125.122",
+    "timestamp":"2014-11-11 18:24:12.556050"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"38.0.2125.122",
+    "timestamp":"2014-11-11 18:24:15.164910"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"38.0.2125.122",
+    "timestamp":"2014-11-11 19:06:25.075690"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"38.0.2125.119",
+    "timestamp":"2014-10-30 17:18:48.488260"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"38.0.2125.111",
+    "timestamp":"2014-10-27 18:30:38.357260"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"38.0.2125.111",
+    "timestamp":"2014-10-27 18:58:47.173780"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"38.0.2125.111",
+    "timestamp":"2014-10-27 18:16:36.924870"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"38.0.2125.110",
+    "timestamp":"2014-10-23 13:12:28.260580"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"38.0.2125.108",
+    "timestamp":"2014-10-16 13:59:55.133840"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"38.0.2125.104",
+    "timestamp":"2014-10-14 19:07:14.210130"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"38.0.2125.104",
+    "timestamp":"2014-10-14 19:35:18.635640"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"38.0.2125.104",
+    "timestamp":"2014-10-14 20:03:28.016180"
+  },
+  {
+    "os":"Android",
+    "channel":"stable",
+    "version":"38.0.2125.102",
+    "timestamp":"2014-10-10 00:23:15.488840"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"38.0.2125.102",
+    "timestamp":"2014-10-10 00:23:15.784610"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"38.0.2125.101",
+    "timestamp":"2014-10-01 19:10:23.641620"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"38.0.2125.101",
+    "timestamp":"2014-10-07 19:45:21.307270"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"38.0.2125.101",
+    "timestamp":"2014-10-13 20:08:58.847960"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"38.0.2125.101",
+    "timestamp":"2014-10-07 19:03:10.523670"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"38.0.2125.101",
+    "timestamp":"2014-10-07 19:03:08.268090"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"38.0.2125.101",
+    "timestamp":"2014-10-01 19:24:25.489680"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"38.0.2125.101",
+    "timestamp":"2014-10-01 19:38:30.023410"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"38.0.2125.101",
+    "timestamp":"2014-10-02 13:41:10.209060"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2125.0",
+    "timestamp":"2014-08-16 16:17:02.335140"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"38.0.2125.0",
+    "timestamp":"2014-08-18 18:10:02.854540"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"38.0.2125.0",
+    "timestamp":"2014-08-18 17:41:54.370560"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"38.0.2125.0",
+    "timestamp":"2014-08-18 17:41:57.223290"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2125.0",
+    "timestamp":"2014-08-16 07:37:04.517330"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2124.3",
+    "timestamp":"2014-08-16 00:21:15.702290"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2124.3",
+    "timestamp":"2014-08-15 23:53:11.247050"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2124.0",
+    "timestamp":"2014-08-15 07:57:56.782520"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2124.0",
+    "timestamp":"2014-08-15 08:12:03.143980"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2123.0",
+    "timestamp":"2014-08-14 10:11:40.357910"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2123.0",
+    "timestamp":"2014-08-14 09:57:34.537610"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2122.2",
+    "timestamp":"2014-08-13 14:45:31.990300"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2122.2",
+    "timestamp":"2014-08-13 11:00:45.983550"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"38.0.2121.3",
+    "timestamp":"2014-08-13 02:35:10.789430"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"38.0.2121.3",
+    "timestamp":"2014-08-13 01:52:58.664360"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"38.0.2121.3",
+    "timestamp":"2014-08-13 02:21:07.255440"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2121.3",
+    "timestamp":"2014-08-12 11:49:02.622860"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2121.3",
+    "timestamp":"2014-08-12 17:26:48.406850"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2120.0",
+    "timestamp":"2014-08-11 09:18:23.933090"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2120.0",
+    "timestamp":"2014-08-11 20:48:47.450310"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2119.0",
+    "timestamp":"2014-08-10 08:44:03.553310"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2118.0",
+    "timestamp":"2014-08-09 07:40:56.032080"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2117.2",
+    "timestamp":"2014-08-08 09:40:14.786280"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2117.2",
+    "timestamp":"2014-08-08 11:04:42.640510"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2116.0",
+    "timestamp":"2014-08-07 07:53:17.993780"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2116.0",
+    "timestamp":"2014-08-07 11:38:20.385310"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2115.0",
+    "timestamp":"2014-08-06 07:17:21.194200"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2115.0",
+    "timestamp":"2014-08-06 08:41:41.798900"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2114.2",
+    "timestamp":"2014-08-05 09:16:34.142890"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"38.0.2114.2",
+    "timestamp":"2014-08-05 21:13:06.672580"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"38.0.2114.2",
+    "timestamp":"2014-08-05 19:48:47.153950"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"38.0.2114.2",
+    "timestamp":"2014-08-05 20:30:57.052790"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2114.2",
+    "timestamp":"2014-08-05 10:40:53.825610"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2113.0",
+    "timestamp":"2014-08-04 08:24:41.223650"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2113.0",
+    "timestamp":"2014-08-04 10:31:14.318840"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2112.0",
+    "timestamp":"2014-08-03 11:34:06.373000"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2112.0",
+    "timestamp":"2014-08-03 07:21:01.042800"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2111.0",
+    "timestamp":"2014-08-02 08:37:40.511470"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2111.0",
+    "timestamp":"2014-08-02 07:13:16.156600"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2110.2",
+    "timestamp":"2014-08-01 09:43:19.965400"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2110.2",
+    "timestamp":"2014-08-01 10:11:29.522000"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2109.0",
+    "timestamp":"2014-07-31 09:34:46.013420"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2109.0",
+    "timestamp":"2014-07-31 14:16:27.800480"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2108.0",
+    "timestamp":"2014-07-30 08:26:55.287770"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2108.0",
+    "timestamp":"2014-07-30 07:16:35.154350"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"38.0.2107.3",
+    "timestamp":"2014-07-31 21:46:20.441480"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"38.0.2107.3",
+    "timestamp":"2014-07-31 22:00:26.152920"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"38.0.2107.3",
+    "timestamp":"2014-07-31 21:46:22.318780"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2107.2",
+    "timestamp":"2014-07-29 08:59:16.317280"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"38.0.2107.2",
+    "timestamp":"2014-07-30 04:41:34.674150"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"38.0.2107.2",
+    "timestamp":"2014-07-30 05:24:05.549000"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"38.0.2107.2",
+    "timestamp":"2014-07-30 06:06:20.027510"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2107.2",
+    "timestamp":"2014-07-29 08:59:14.049450"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2106.0",
+    "timestamp":"2014-07-27 07:00:57.059950"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2106.0",
+    "timestamp":"2014-07-27 08:25:20.588970"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2105.0",
+    "timestamp":"2014-07-26 08:15:36.315440"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2105.0",
+    "timestamp":"2014-07-26 11:04:40.115860"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"38.0.2104.0",
+    "timestamp":"2014-07-29 20:28:59.659380"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2104.0",
+    "timestamp":"2014-07-25 09:44:08.958010"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2104.0",
+    "timestamp":"2014-07-25 08:19:31.484420"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2103.0",
+    "timestamp":"2014-07-24 07:56:10.613060"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2103.0",
+    "timestamp":"2014-07-24 10:17:10.929520"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2102.0",
+    "timestamp":"2014-07-23 07:18:16.754260"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2102.0",
+    "timestamp":"2014-07-23 09:53:08.776330"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"38.0.2101.0",
+    "timestamp":"2014-07-31 03:43:04.849470"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2101.0",
+    "timestamp":"2014-07-22 12:03:53.018330"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"38.0.2101.0",
+    "timestamp":"2014-07-31 02:32:21.521520"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2101.0",
+    "timestamp":"2014-07-22 07:36:08.780790"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"38.0.2101.0",
+    "timestamp":"2014-07-31 02:32:19.194270"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2100.0",
+    "timestamp":"2014-07-21 07:37:28.015710"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2100.0",
+    "timestamp":"2014-07-21 07:09:20.292810"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2099.0",
+    "timestamp":"2014-07-20 07:39:51.673840"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2098.0",
+    "timestamp":"2014-07-19 07:45:01.769190"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2098.0",
+    "timestamp":"2014-07-19 21:06:45.524190"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2097.0",
+    "timestamp":"2014-07-18 17:54:47.966070"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2097.0",
+    "timestamp":"2014-07-18 07:21:44.806580"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2096.9",
+    "timestamp":"2014-07-18 05:43:21.359740"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2096.9",
+    "timestamp":"2014-07-18 09:28:24.762590"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"38.0.2096.0",
+    "timestamp":"2014-07-18 00:05:47.656770"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2096.0",
+    "timestamp":"2014-07-17 17:32:08.691850"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2096.0",
+    "timestamp":"2014-07-17 17:32:10.724290"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"38.0.2096.0",
+    "timestamp":"2014-07-17 23:51:42.167220"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"38.0.2096.0",
+    "timestamp":"2014-07-18 00:19:52.758010"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2095.0",
+    "timestamp":"2014-07-16 20:26:28.300250"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2094.0",
+    "timestamp":"2014-07-16 09:53:40.415600"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2094.0",
+    "timestamp":"2014-07-16 08:15:17.694730"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2093.3",
+    "timestamp":"2014-07-15 11:24:25.024850"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2093.3",
+    "timestamp":"2014-07-15 23:35:17.497460"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2091.2",
+    "timestamp":"2014-07-14 09:35:51.975200"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2091.2",
+    "timestamp":"2014-07-14 11:43:26.602490"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2090.0",
+    "timestamp":"2014-07-13 13:12:26.890730"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2090.0",
+    "timestamp":"2014-07-13 12:02:11.380430"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2089.0",
+    "timestamp":"2014-07-12 20:19:50.941920"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2089.0",
+    "timestamp":"2014-07-12 18:55:34.482350"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2088.0",
+    "timestamp":"2014-07-12 09:18:55.043470"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2088.0",
+    "timestamp":"2014-07-12 07:12:20.759410"
+  },
+  {
+    "os":"Mac",
+    "channel":"canary",
+    "version":"38.0.2087.0",
+    "timestamp":"2014-07-11 09:09:50.105820"
+  },
+  {
+    "os":"Windows",
+    "channel":"canary",
+    "version":"38.0.2078.1",
+    "timestamp":"2014-08-29 16:41:52.501570"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"37.0.2062.94",
+    "timestamp":"2014-08-20 16:17:28.364180"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"37.0.2062.94",
+    "timestamp":"2014-08-26 14:11:22.119930"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"37.0.2062.94",
+    "timestamp":"2014-08-26 14:11:21.415570"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"37.0.2062.94",
+    "timestamp":"2014-08-26 14:11:19.326620"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"37.0.2062.94",
+    "timestamp":"2014-08-21 15:42:06.704960"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"37.0.2062.94",
+    "timestamp":"2014-08-20 16:31:29.955410"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"37.0.2062.94",
+    "timestamp":"2014-08-20 16:17:28.975890"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"37.0.2062.80",
+    "timestamp":"2014-08-15 01:38:39.417320"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"37.0.2062.76",
+    "timestamp":"2014-08-13 19:40:29.123950"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"37.0.2062.76",
+    "timestamp":"2014-08-13 17:48:07.759800"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"37.0.2062.76",
+    "timestamp":"2014-08-13 19:26:27.471400"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"37.0.2062.68",
+    "timestamp":"2014-08-06 17:49:50.980560"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"37.0.2062.68",
+    "timestamp":"2014-08-06 17:35:46.402000"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"37.0.2062.68",
+    "timestamp":"2014-08-06 17:35:43.713970"
+  },
+  {
+    "os":"iOS",
+    "channel":"stable",
+    "version":"37.0.2062.60",
+    "timestamp":"2014-09-23 16:43:37.367920"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"37.0.2062.58",
+    "timestamp":"2014-07-30 16:39:43.080490"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"37.0.2062.58",
+    "timestamp":"2014-07-30 16:39:44.908910"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"37.0.2062.58",
+    "timestamp":"2014-07-30 16:54:04.066080"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"37.0.2062.53",
+    "timestamp":"2014-07-30 18:18:19.995020"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"37.0.2062.52",
+    "timestamp":"2014-08-21 17:48:27.566450"
+  },
+  {
+    "os":"iOS",
+    "channel":"stable",
+    "version":"37.0.2062.52",
+    "timestamp":"2014-09-04 16:42:22.353320"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"37.0.2062.51",
+    "timestamp":"2014-08-20 01:04:19.116840"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"37.0.2062.44",
+    "timestamp":"2014-07-24 18:01:13.572940"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"37.0.2062.44",
+    "timestamp":"2014-07-24 17:04:45.226950"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"37.0.2062.44",
+    "timestamp":"2014-07-24 17:04:47.676140"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"37.0.2062.42",
+    "timestamp":"2014-08-12 14:37:33.913690"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"37.0.2062.41",
+    "timestamp":"2014-08-07 12:20:28.277810"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"37.0.2062.39",
+    "timestamp":"2014-07-24 17:47:10.160910"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"37.0.2062.35",
+    "timestamp":"2014-07-23 19:44:16.969100"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"37.0.2062.35",
+    "timestamp":"2014-07-23 18:19:37.967850"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"37.0.2062.35",
+    "timestamp":"2014-07-23 18:33:59.162230"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"37.0.2062.34",
+    "timestamp":"2014-08-01 20:29:34.153800"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"37.0.2062.30",
+    "timestamp":"2014-07-29 17:11:59.426100"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"37.0.2062.29",
+    "timestamp":"2014-07-24 22:28:34.745430"
+  },
+  {
+    "os":"Chrome",
+    "channel":"dev",
+    "version":"37.0.2062.29",
+    "timestamp":"2014-07-22 17:27:27.898880"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"37.0.2062.20",
+    "timestamp":"2014-07-15 17:29:45.513960"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"37.0.2062.20",
+    "timestamp":"2014-07-22 10:39:29.793720"
+  },
+  {
+    "os":"Linux",
+    "channel":"dev",
+    "version":"37.0.2062.20",
+    "timestamp":"2014-07-15 18:25:58.704670"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"37.0.2062.20",
+    "timestamp":"2014-07-17 16:21:41.653510"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"37.0.2062.20",
+    "timestamp":"2014-07-15 17:29:43.717960"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"37.0.2062.20",
+    "timestamp":"2014-07-17 16:35:47.161600"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"37.0.2062.20",
+    "timestamp":"2014-07-17 16:21:43.772660"
+  },
+  {
+    "os":"iOS",
+    "channel":"beta",
+    "version":"37.0.2062.16",
+    "timestamp":"2014-07-15 15:09:18.426350"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"37.0.2062.124",
+    "timestamp":"2014-09-24 18:16:03.946430"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"37.0.2062.124",
+    "timestamp":"2014-09-24 18:16:01.518130"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"37.0.2062.122",
+    "timestamp":"2014-09-18 18:19:52.964060"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"37.0.2062.120",
+    "timestamp":"2014-09-09 16:43:22.316240"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"37.0.2062.120",
+    "timestamp":"2014-09-09 17:53:40.600080"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"37.0.2062.120",
+    "timestamp":"2014-09-09 17:39:33.250400"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"37.0.2062.120",
+    "timestamp":"2014-10-10 23:23:26.153670"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"37.0.2062.119",
+    "timestamp":"2014-09-03 19:36:02.665700"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"37.0.2062.119",
+    "timestamp":"2014-08-29 23:02:27.625440"
+  },
+  {
+    "os":"Android",
+    "channel":"beta",
+    "version":"37.0.2062.117",
+    "timestamp":"2014-09-04 16:42:26.623680"
+  },
+  {
+    "os":"Android",
+    "channel":"stable",
+    "version":"37.0.2062.117",
+    "timestamp":"2014-09-04 16:42:25.966250"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"37.0.2062.103",
+    "timestamp":"2014-09-02 17:07:06.352410"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"37.0.2062.102",
+    "timestamp":"2014-08-28 20:32:58.513800"
+  },
+  {
+    "os":"iOS",
+    "channel":"stable",
+    "version":"36.0.1985.57",
+    "timestamp":"2014-08-20 01:04:18.626230"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"36.0.1985.531",
+    "timestamp":"2014-07-30 18:18:19.321290"
+  },
+  {
+    "os":"iOS",
+    "channel":"stable",
+    "version":"36.0.1985.49",
+    "timestamp":"2014-07-23 11:59:38.895980"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"36.0.1985.143",
+    "timestamp":"2014-08-12 16:58:43.609230"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"36.0.1985.143",
+    "timestamp":"2014-08-12 19:05:09.633250"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"36.0.1985.143",
+    "timestamp":"2014-08-12 19:05:11.652700"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"36.0.1985.143",
+    "timestamp":"2014-08-12 19:33:17.924610"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"36.0.1985.138",
+    "timestamp":"2014-08-04 18:43:43.898780"
+  },
+  {
+    "os":"Chrome",
+    "channel":"beta",
+    "version":"36.0.1985.126",
+    "timestamp":"2014-07-17 01:49:47.895760"
+  },
+  {
+    "os":"Chrome",
+    "channel":"stable",
+    "version":"36.0.1985.126",
+    "timestamp":"2014-07-21 20:45:17.308730"
+  },
+  {
+    "os":"Windows",
+    "channel":"stable",
+    "version":"36.0.1985.125",
+    "timestamp":"2014-07-16 18:33:48.633270"
+  },
+  {
+    "os":"Linux",
+    "channel":"beta",
+    "version":"36.0.1985.125",
+    "timestamp":"2014-07-15 17:43:49.176460"
+  },
+  {
+    "os":"Windows",
+    "channel":"dev",
+    "version":"36.0.1985.125",
+    "timestamp":"2014-07-31 01:48:39.200600"
+  },
+  {
+    "os":"Linux",
+    "channel":"stable",
+    "version":"36.0.1985.125",
+    "timestamp":"2014-07-16 19:02:12.183600"
+  },
+  {
+    "os":"Mac",
+    "channel":"stable",
+    "version":"36.0.1985.125",
+    "timestamp":"2014-07-16 18:33:51.383950"
+  },
+  {
+    "os":"Mac",
+    "channel":"beta",
+    "version":"36.0.1985.125",
+    "timestamp":"2014-07-15 23:07:11.270070"
+  },
+  {
+    "os":"Mac",
+    "channel":"dev",
+    "version":"36.0.1985.125",
+    "timestamp":"2014-07-31 01:34:37.270430"
+  },
+  {
+    "os":"Windows",
+    "channel":"beta",
+    "version":"36.0.1985.125",
+    "timestamp":"2014-07-15 19:36:13.144400"
+  }
+]

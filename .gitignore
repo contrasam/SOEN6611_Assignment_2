@@ -1,0 +1,7 @@
+migrate_release_info.pyc
+init_db_script.pyc
+bug_info_extractor.pyc
+review_info_extractor.pyc
+dbconnector.pyc
+raw_chrome_issue/
+raw_chrome_review/
